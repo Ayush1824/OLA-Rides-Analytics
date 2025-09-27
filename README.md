@@ -57,10 +57,10 @@ Using **SQL, Power BI, and Streamlit**, we analyze booking trends, revenues, can
 ## 📷 Screenshots  
 
 ### 📊 Power BI Dashboard  
-![Power BI Dashboard](images/powerbi_dashboard.png)  
+![Power BI Dashboard](https://github.com/Ayush1824/OLA-Rides-Analytics/blob/main/Screenshot%20(215).png)  
 
 ### 🌐 Streamlit App  
-![Streamlit App](images/streamlit_app.png)  
+![Streamlit App](https://github.com/Ayush1824/OLA-Rides-Analytics/blob/main/Screenshot%20(216).png)  
 
 ---
 
